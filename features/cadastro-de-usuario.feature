@@ -1,3 +1,5 @@
+# language: pt
+
 Teste Prático QA - BugBank
 ${site} = 'https://vermillion-pavlova-8ff398.netlify.app'
 
